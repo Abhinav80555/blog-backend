@@ -1,7 +1,6 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -28,5 +27,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav80555/blog-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abhinav80555/blog-backend/issues"
+  },
+  "homepage": "https://github.com/Abhinav80555/blog-backend#readme",
+  "description": ""
 }
