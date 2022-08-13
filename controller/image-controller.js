@@ -1,7 +1,7 @@
 import grid from 'gridfs-stream';
 import mongoose from 'mongoose';
 
-const url = 'https://blog-backend.abhinav80555.repl.co';
+const url = 'https://blog-jwtmern.herokuapp.com';
 
 
 let gfs, gridfsBucket;
